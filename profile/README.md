@@ -8,7 +8,7 @@
 
 ## 5개의 repository
 1. SparkStructOrgnization</br>
-   1.1 Kafka-Spark Streaming</br>
+   1.1 Kafka-Spark Streaming[인구 혼잡도 + 코인 평균가 계산 MultiThread 사용]</br>
    1.2 Spark Batch 모음집
 2. CongestionStreaming</br>
    2.1 실시간 혼잡도 (서울시 실시간 도시 데이터)</br>
@@ -17,3 +17,4 @@
    3.2 REST, WebSocket</br>
 4. BatchSchedulerCR</br>
     4.1 크롤링 배치 
+
